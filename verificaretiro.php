@@ -27,7 +27,6 @@ session_start();
 
 <title>Retirar Rollos</title>
 </head>
-<body style="background-color:#00000;">
 <center>
 <BR>
 <b>Retirar Rollos</br></b></center>

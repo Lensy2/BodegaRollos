@@ -26,7 +26,6 @@ session_start();
 <BR>
 <title>Ingresar Rollos</title>
 </head>
-<body style="background-color:#00000;">
 <center>
 <BR>
 <b>Ingresar Rollos</br></b></center>
