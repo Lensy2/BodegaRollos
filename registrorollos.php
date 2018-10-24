@@ -3,7 +3,6 @@
 <BR>
 <title>Ingresar Rollos</title>
 </head>
-<body style="background-color:#00000;">
 <center>
 
 <b>Ingresar Rollos</br></b></center>

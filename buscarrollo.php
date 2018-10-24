@@ -3,7 +3,6 @@
 <BR>
 <title>Buscar Rollos</title>
 </head>
-<body style="background-color:#00000;">
 <center>
 <BR>
 <b>Buscar Rollos</br></b></center>

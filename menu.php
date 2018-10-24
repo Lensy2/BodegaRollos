@@ -4,7 +4,6 @@
 </head>
 <BR>
 <BR>
-<body style="background-color:#00000;">
 <center><b>Ubicación Rollos</br></b></center>
 <center><table>
 <BR>

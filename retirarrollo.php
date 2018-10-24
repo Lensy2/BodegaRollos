@@ -3,7 +3,6 @@
 <BR>
 <title>Retirar Rollos</title>
 </head>
-<body style="background-color:#00000;">
 <center>
 
 <b>Retirar Rollos</br></b></center>
